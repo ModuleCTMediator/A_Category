@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/YSRepository/A_Category.git", :tag => "#{s.version}" }
 
-  s.source_files = "A_Category/A_Category/*"
+  s.source_files = "A_Category/A_Category/A_Category/*"
 
   s.requires_arc = true
 
