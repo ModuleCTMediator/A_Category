@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   Create A_Category podspec to private pod 
                    DESC
 
-  s.homepage     = "https://github.com/YSRepository/A_Category"
+  s.homepage     = "https://github.com/ModuleCTMediator/A_Category"
 
   s.license      = "MIT"
 
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "7.0"
 
-  s.source       = { :git => "https://github.com/YSRepository/A_Category.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/ModuleCTMediator/A_Category.git", :tag => "#{s.version}" }
 
   s.source_files = "A_Category/A_Category/A_Category/*"
 
